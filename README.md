@@ -1,8 +1,8 @@
-# Fixing A Hole: Contemporary Security Issues In Africa
-Zachary Hadley, PhD Candidate
-AGS Paris 
+# Fixing A Hole: Contemporary Security Issues In Africa (Working Paper)
 
-Working Paper 
+Zachary Hadley, PhD Candidate
+
+AGS Paris 
 
 In the twenty-first century, complex and dynamic challenges within Africa including violent extremism, illicit trafficking, and climate change are borderless. With the ability to scale exponentially, localized conflicts destabilize regions. Since the early aughts, scholarly efforts to explicate transnational challenges has led to a growing body of literature dedicated to the African continent. While promising, the corpora of secondary literature often lack conceptual rigor and depth --- requiring students, researchers and policy-makers to thread coherent narratives across diverse sets of government records, media reports, and scholarly research. 
 
